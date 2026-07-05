@@ -13,7 +13,11 @@ The algorithmic approach to baseline worldly logic has transitioned from manuall
 
 
 ```mermaid
-[Symbolic Ontologies (Cyc, 1984)] ───> [Crowdsourced Relations (ATOMIC, 2019)] ───> [Statistical Mimicry (GPT-3/4, 2020)] ───> [Native System 2 Search (o1/R1, 2024+)](Rigid Logic Rule Assertions)             (Linguistic Concept Mapping)                 (Brittle Associative Hallucinations)          (Internalized Verification Loops)
+flowchart LR
+    A["Symbolic Knowledge Bases (Cyc, 1984)<br/>(Hand-Crafted Logical Knowledge)"]
+    --> B["Crowdsourced Commonsense Graphs (ATOMIC, 2019)<br/>(Human-Curated Event & Relation Knowledge)"]
+    --> C["Large Language Models (GPT-3/4, 2020–2023)<br/>(Knowledge Emerges from Large-Scale Pretraining)"]
+    --> D["Reasoning-Centric LLMs (o1 / R1, 2024+)<br/>(Inference-Time Verification & Deliberation)"]
 ```
 
 *   **The Symbolic Rule & Fact Axiom Era (Cyc / GOFAI Baseline, ~1984–1990s)**
@@ -55,7 +59,23 @@ To anchor common sense within autonomous systems cleanly without hit compute lat
 
 
 ```mermaid
-Spatio-Temporal World Model Matrix┌───────────────────────┐│ Dynamic Sensory Input │└───────────┬───────────┘│┌───────────────────────┼───────────────────────┐▼                       ▼                       ▼Generative World Model     System 2 Token Search    Tool Grounding Node(Predictive Physics Video)  (Hidden Self-Correction) (Live API / Knowledge Graph)│                       │                       │└───────────────────────┼───────────────────────┘│▼Unified Verified Action Vector
+flowchart TB
+
+A["Dynamic Sensory Input"]
+
+A --> B
+A --> C
+A --> D
+
+subgraph WM["Spatio-Temporal World Model"]
+    B["Generative World Model<br/>(Predictive Physics & Video Dynamics)"]
+    C["Reasoning Engine<br/>(Inference-Time Search & Self-Correction)"]
+    D["Tool Grounding Layer<br/>(APIs / Knowledge Graphs / External Memory)"]
+end
+
+B --> E["Unified Verified Action"]
+C --> E
+D --> E
 ```
 
 *   **Generative World Simulators (Video Diffusion Transformers)**
