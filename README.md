@@ -1,4 +1,8 @@
-# Awesome-Commonsense-Reasoning
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Commonsense Reasoning Banner" />
+</div>
+
+# 🌟 Awesome-Commonsense-Reasoning
 ## Commonsense Reasoning in AI: History, Progression, Variants, & Applications
 
 **Commonsense Reasoning** is a foundational cognitive paradigm in artificial intelligence dedicated to enabling machines to understand, infer, and apply the implicit, unwritten background knowledge that humans use naturally to navigate daily life. This includes basic physical tracking (e.g., knowing that a dropped glass will shatter), psychological intent (e.g., inferring that someone reaching for water is thirsty), and abstract social scripts. 
@@ -7,7 +11,7 @@ While standard deep learning systems excel at isolating complex statistical patt
 
 ---
 
-## 1. The Macro Chronological Evolution
+## ⏳ 1. The Macro Chronological Evolution
 
 The algorithmic approach to baseline worldly logic has transitioned from manually curated symbolic statement registries to data-driven semantic graphs, web-scale autoregressive associations, and native multi-step verification enclaves.
 
@@ -29,7 +33,7 @@ flowchart LR
 
 ---
 
-## 2. Core Functional & Reasoning Variants
+## 🧩 2. Core Functional & Reasoning Variants
 
 Commonsense Reasoning is strictly categorized based on the specific operational axis of physical or social reality the model is tasked with decoding.
 
@@ -42,7 +46,7 @@ Commonsense Reasoning is strictly categorized based on the specific operational 
 
 ---
 
-## 3. High-Capacity Architectural & World Model Component Types
+## 🏗️ 3. High-Capacity Architectural & World Model Component Types
 
 To anchor common sense within autonomous systems cleanly without hit compute latency walls, modern frameworks deploy hybrid neuro-symbolic and generative world models.
 
@@ -74,7 +78,7 @@ D --> E
 
 ---
 
-## 4. Production Engineering Challenges & Mitigations
+## 🚧 4. Production Engineering Challenges & Mitigations
 
 Deploying and tracking commonsense logic grids across commercial enterprise software applications introduces unique metric and capability boundaries.
 
@@ -85,7 +89,7 @@ Deploying and tracking commonsense logic grids across commercial enterprise soft
 
 ---
 
-## 5. Frontier Real-World AI Applications
+## 🚀 5. Frontier Real-World AI Applications
 
 | Application Area | Application Details | Year First Used | Paper Link |
 | :--- | :--- | :--- | :--- |
@@ -95,7 +99,7 @@ Deploying and tracking commonsense logic grids across commercial enterprise soft
 
 ---
 
-## References
+## 📚 References
 1. Lenat, D. B. (1995). CYC: A large-scale investment in common sense reasoning and knowledge infrastructure. *Communications of the ACM*, 38(11), 33-38.
 2. Speer, R., Chin, J., & Havasi, C. (2017). ConceptNet 5.5: An open multilingual graph of general knowledge. *AAAI Conference on Artificial Intelligence*, 31(1).
 3. Sap, M., et al. (2019). ATOMIC: An atlas of machine commonsense for if-then reasoning. *AAAI Conference on Artificial Intelligence*, 33(01), 3027-3035.
