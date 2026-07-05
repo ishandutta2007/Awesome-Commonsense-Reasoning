@@ -3,6 +3,15 @@
 </div>
 
 # 🌟 Awesome-Commonsense-Reasoning
+
+<div align="center">
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</div>
+
+
+> **Keywords**: Commonsense Reasoning, Artificial Intelligence, Spatio-Temporal World Models, Large Language Models (LLM), reinforcement learning, symbolic logic, ATOMIC, Cyc, GPT-4, o1, DeepSeek-R1, generative world simulators, process-supervised step verifiers (PRMs), Theory of Mind, abductive reasoning.
+
+
 ## Commonsense Reasoning in AI: History, Progression, Variants, & Applications
 
 **Commonsense Reasoning** is a foundational cognitive paradigm in artificial intelligence dedicated to enabling machines to understand, infer, and apply the implicit, unwritten background knowledge that humans use naturally to navigate daily life. This includes basic physical tracking (e.g., knowing that a dropped glass will shatter), psychological intent (e.g., inferring that someone reaching for water is thirsty), and abstract social scripts. 
