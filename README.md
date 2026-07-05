@@ -34,18 +34,18 @@ The algorithmic approach to baseline worldly logic has transitioned from manuall
 
 Commonsense Reasoning is strictly categorized based on the specific operational axis of physical or social reality the model is tasked with decoding.
 
-### A. Physical Commonsense (Spatiotemporal Dynamics)
-*   **Mechanism:** Models the behavior, tracking, and material limitations of physical objects under natural laws (gravity, mass, velocity, rigidity).
-*   **Example:** Inferring that if an open container of liquid is inverted, the contents will spill onto the ground.
+- ### A. Physical Commonsense (Spatiotemporal Dynamics)
+	*   **Mechanism:** Models the behavior, tracking, and material limitations of physical objects under natural laws (gravity, mass, velocity, rigidity).
+	*   **Example:** Inferring that if an open container of liquid is inverted, the contents will spill onto the ground.
 
-### B. Social & Psychological Commonsense (Theory of Mind)
-*   **Mechanism:** Decodes human behavior, emotional trajectories, and unstated social scripts. It maps **Theory of Mind (ToM)** parameters to deduce *why* an individual took an action, what they are currently feeling, and what secondary actions their peer group will likely execute next based on localized context cues.
+- ### B. Social & Psychological Commonsense (Theory of Mind)
+	*   **Mechanism:** Decodes human behavior, emotional trajectories, and unstated social scripts. It maps **Theory of Mind (ToM)** parameters to deduce *why* an individual took an action, what they are currently feeling, and what secondary actions their peer group will likely execute next based on localized context cues.
 
-### C. Abductive Reasoning (Cause-and-Effect Inversion)
-*   **Mechanism:** Moves backward from an observed outcome to reconstruct the absolute most plausible historical trigger. Given an observation (e.g., `"The grass is completely wet, but the sidewalk next to it is dry"`), the model bypasses simple deductions to infer the operational trigger (e.g., `"An automated lawn sprinkler was active"`).
+- ### C. Abductive Reasoning (Cause-and-Effect Inversion)
+	*   **Mechanism:** Moves backward from an observed outcome to reconstruct the absolute most plausible historical trigger. Given an observation (e.g., `"The grass is completely wet, but the sidewalk next to it is dry"`), the model bypasses simple deductions to infer the operational trigger (e.g., `"An automated lawn sprinkler was active"`).
 
-### D. Qualitative / Counterfactual Reasoning
-*   **Mechanism:** Simulates hypothetical alterations to reality. The model must track non-linear changes across a coordinate grid: evaluating how an initial condition change (e.g., `"What if the sun were twice as massive?"`) cascades to distort systemic downstream balances safely.
+- ### D. Qualitative / Counterfactual Reasoning
+	*   **Mechanism:** Simulates hypothetical alterations to reality. The model must track non-linear changes across a coordinate grid: evaluating how an initial condition change (e.g., `"What if the sun were twice as massive?"`) cascades to distort systemic downstream balances safely.
 
 ---
 
