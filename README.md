@@ -133,3 +133,15 @@ Before updating this repository workspace layout, let me know how you would like
 * I can generate a **Markdown matrix table** tracking the explicit evaluation metrics, baseline token counts, and dataset timelines used by leading frontier laboratories to measure human-level semantic capabilities.
 * I can write a detailed technical explanation focusing on the **mathematics of Theory of Mind (ToM) modeling** inside multi-agent reinforcement learning environments.
 
+
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Commonsense-Reasoning&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Commonsense-Reasoning&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Commonsense-Reasoning&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Commonsense-Reasoning&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
